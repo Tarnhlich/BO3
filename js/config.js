@@ -52,7 +52,8 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/touhou04.jpg",
 ];
 
 /*Random background images order?*/
@@ -85,7 +86,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "E5ONTXHS2mM", name: "Desiigner - Panda"},
+	
 ];
 
 /*Random music order?*/
