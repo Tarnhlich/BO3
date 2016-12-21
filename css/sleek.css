@@ -62,7 +62,7 @@ video {
 
 #loading-progress {
 	height: 100%; width: 0%;
-	background-color: white;
+	background-color: red;
 }
 
 #messages {
